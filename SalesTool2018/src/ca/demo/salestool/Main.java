@@ -9,10 +9,11 @@ public class Main {
 		data.display();
 
 	}
-	
-	private static void displayGreeting( ) {
-		System.out.println("Hello World");
-		System.out.println("Bye");
+
+	private static void displayGreeting() {
+		System.out.println("Hello Happy Sales People, say hooO!");
+		System.out.println("This app shows sales data");
+		System.out.println("Wooot! It pushed");
 	}
 
 }
